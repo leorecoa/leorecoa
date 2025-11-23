@@ -1,61 +1,74 @@
-<h1 align="center">👋 Olá, eu sou o Leorecoa</h1>
+<h1 align="center">👋 Olá, eu sou Leandro Jesse</h1>
+
+<h3 align="center">Desenvolvedor Front-end | HTML | CSS | JavaScript</h3>
 
 <p align="center">
-  🚀 Transformo ideias em soluções reais com empatia, acessibilidade e criatividade. <br>
-  🧠 Apaixonado por inovação, tecnologia assistiva e educação digital inclusiva.
+  Em transição de carreira para desenvolvimento web, 
+  atualmente focando em construir bases sólidas em 
+  tecnologias front-end modernas.
 </p>
 
 ---
 
-## 📘 Sobre Mim
+## 🚀 Sobre Mim
 
-> _“Tecnologia só tem valor quando ajuda pessoas de verdade.”_  
-> — Leorecoa
+Estou em processo de aprendizado ativo em **desenvolvimento web front-end**, dedicando-me ao domínio das tecnologias fundamentais para criar interfaces modernas e responsivas.
 
----
-
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leorecoa&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leorecoa&layout=compact&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leorecoa&theme=radical" alt="leorecoa streak"/>
-</p>
+**Atualmente estudando:**
+- ✅ **HTML5** - Estrutura semântica e acessível
+- ✅ **CSS3** - Estilização, Flexbox e Grid
+- ✅ **JavaScript** - Lógica de programação e DOM
 
 ---
 
-## 🎯 Portfólio
+## 📊 Métricas do GitHub
 
-- 🌐 [Meu Mundo em Símbolos](https://meu-mundo-em-simbolos.vercel.app)
-- 📱 Em breve: app inclusivo voltado para o autismo
+<div align="center">
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=leorecoa&show_icons=true&theme=radical&hide_title=true)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=leorecoa&layout=compact&theme=radical&hide_title=true)
+
+</div>
 
 ---
 
-## 🧰 Pilhas e Ferramentas
+## 🛠 Tecnologias em Estudo
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+### 💻 Fundamentos Front-end
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript" alt="JavaScript"/>
 </p>
+
+### 🔧 Ferramentas
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git" alt="Git"/>
+</p>
+
+---
+
+## 📚 Próximos Passos
+
+**Plano de estudos:**
+- 🎯 Consolidar fundamentos de JavaScript
+- 🎯 Aprender React.js
+- 🎯 Desenvolver projetos práticos
+- 🎯 Construir portfólio
 
 ---
 
 ## 📞 Contato
 
 <p align="center">
-  <a href="mailto:leorecoa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/leandro-jesse"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:leorecoa@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/leandro-jesse">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---
 
-<p align="center">Feito com 💙 por Leorecoa</p>
+<p align="center">Foco, disciplina e evolução contínua 💪</p>
