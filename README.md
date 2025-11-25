@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou Leandro Jesse</h1>
+mantendo a realidade de estudos melhore isso por favor! > <h1 align="center">👋 Olá, eu sou Leandro Jesse</h1>
 
 <h3 align="center">Desenvolvedor Front-end | HTML | CSS | JavaScript</h3>
 
