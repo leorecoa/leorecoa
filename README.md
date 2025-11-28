@@ -103,8 +103,8 @@ Minha missão é clara: **dominar Java e me tornar desenvolvedor back-end profis
 ---
 
 ## 🤝 Contato  
-- ✉ leandrojesse775@gmail.com  
-- 🔗 https://www.linkedin.com/in/leandrojesse  
+- ✉ leorecoa2@gmail.com  
+- 🔗 https://www.linkedin.com/in/leandro-jess%C3%A9-7b575539a/
 - 🐙 https://github.com/leorecoa
 
 ---
