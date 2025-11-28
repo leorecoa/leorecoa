@@ -8,10 +8,10 @@
 
 ## 🚀 Vamos nos conectar!
 <p align="center">
-  <a href="https://www.linkedin.com/in/leandrojesse" target="_blank">
+  <a href="https://www.linkedin.com/in/leandro-jess%C3%A9-7b575539a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:leandrojesse775@gmail.com">
+  <a href="mailto:leorecoa2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/leorecoa" target="_blank">
