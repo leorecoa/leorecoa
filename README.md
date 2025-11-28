@@ -1,38 +1,112 @@
-👋 Olá! Eu sou Leandro Jesse – LEORECOA
-💻 Desenvolvedor Front-end | HTML • CSS • JavaScript
+<h1 align="center">☕ Leandro Jesse — Java Developer in Progress</h1>
 
-Em transição de carreira e construindo bases sólidas no desenvolvimento web através de estudos diários e prática constante.
+<p align="center">
+  Construindo minha base como desenvolvedor Java e seguindo rumo ao Back-end com consistência, disciplina e foco diário.
+</p>
 
+---
 
-📚 Meu Progresso
-✅ Concluído
+## 🚀 Vamos nos conectar!
+<p align="center">
+  <a href="https://www.linkedin.com/in/leandrojesse" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:leandrojesse775@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/leorecoa" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-Fundamentos de HTML5 e CSS3
+---
 
-Layouts com Flexbox e Grid
+## ⚙️ Pilhas e Motores  
+> Tecnologias e ferramentas que utilizo ou estou estudando
 
-JavaScript Básico
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,idea,spring,git,github,maven,postgres,linux" />
+</p>
 
-🎯 Estudando Agora
+---
 
-Java
+## 📘 Sobre mim
+Sou **Leandro Jesse**, em transição para a área de desenvolvimento, com foco total em **Java e Back-end**.  
+Atualmente estou construindo uma base sólida em:
 
-Responsive Design
+- Lógica de Programação  
+- Java puro (JDK, IntelliJ, Eclipse)  
+- Sintaxe, classes, objetos e POO  
+- Estruturas de dados  
+- Boas práticas e organização de código  
+- Projetos guiados e exercícios reais  
 
-Clean Code
+Minha missão é clara: **dominar Java e me tornar desenvolvedor back-end profissional.**
 
-📅 Próximos Passos
+---
 
-React.js
+## 📚 Estudos Atuais
 
-TypeScript
+### ✔ Curso principal
+**Java COMPLETO Programação Orientada a Objetos + Projetos** (Udemy)
 
-Tailwind CSS
+### ✔ Conteúdos que estou praticando
+- Variáveis, tipos, entrada e saída  
+- Operadores  
+- Condicionais  
+- Loops  
+- Arrays  
+- Métodos  
+- Classes e objetos  
+- POO avançada  
+- Aplicações com boas práticas
 
-};
+### ✔ Próximos passos
+- Spring Boot  
+- Banco de dados (PostgreSQL)  
+- APIs REST  
+- Docker  
+- Projetos reais para portfólio  
 
-📞 Contato
-<p align="left"> <a href="mailto:leandrojesse775@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/leandrojesse" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/leorecoa" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
-⚡ Código é arte, lógica é poesia
+---
 
-Transformando linhas de código em experiências incríveis.
+## 📊 Estatísticas do GitHub
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leorecoa&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leorecoa&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Mentalidade
+> "Código é lógica, disciplina e constância. Todo dia dá pra evoluir 1%."
+
+---
+
+## 🧩 Projetos em construção
+- Exercícios de lógica e Java  
+- Mini sistemas de cadastro  
+- Calculadoras  
+- Programas de console profissionais  
+- Em breve: API REST com Spring Boot
+
+---
+
+## 🛠 Ferramentas de Trabalho
+- Java 17+  
+- IntelliJ IDEA / Eclipse  
+- Git & GitHub  
+- Maven  
+- PostgreSQL  
+- Linux (noções em progresso)
+
+---
+
+## 🤝 Contato  
+- ✉ leandrojesse775@gmail.com  
+- 🔗 https://www.linkedin.com/in/leandrojesse  
+- 🐙 https://github.com/leorecoa
+
+---
+
+<h3 align="center">⚡ Back-end é lógica. E lógica é poesia em movimento.</h3>
