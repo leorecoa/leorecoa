@@ -1,4 +1,4 @@
-<h1 align="center">☕ Leandro Jesse — Java Developer in Progress</h1>
+<h1 align="center">HTML/CSS/JAVASCRIPT==>☕ Leandro Jesse — Java Developer in Progress</h1>
 
 <p align="center">
   Construindo minha base como desenvolvedor Java e seguindo rumo ao Back-end com consistência, disciplina e foco diário.
