@@ -1,12 +1,19 @@
-<h1 align="center">HTML/CSS/JAVASCRIPT==>☕ Leandro Jesse — Java Developer in Progress</h1>
+<h1 align="center">
+Leandro Jesse  
+<br />
+<span style="font-size: 0.7em; font-weight: 400;">
+Full-Stack Developer • AI-Assisted • Problem Solver
+</span>
+</h1>
 
 <p align="center">
-  Construindo minha base como desenvolvedor Java e seguindo rumo ao Back-end com consistência, disciplina e foco diário.
+Desenvolvedor full-stack focado em criar experiências digitais modernas, performáticas e bem estruturadas.  
+Utilizo <strong>Inteligência Artificial como aliada estratégica</strong> para acelerar desenvolvimento, melhorar decisões técnicas e elevar a qualidade do código.
 </p>
 
 ---
 
-## 🚀 Vamos nos conectar!
+## 🌐 Conecte-se comigo
 <p align="center">
   <a href="https://www.linkedin.com/in/leandro-jess%C3%A9-7b575539a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -21,56 +28,67 @@
 
 ---
 
-## ⚙️ Pilhas e Motores  
-> Tecnologias e ferramentas que utilizo ou estou estudando
+## ⚙️ Stack & Tecnologias
+> Ferramentas e tecnologias utilizadas de forma prática no desenvolvimento de projetos
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,idea,spring,git,github,maven,postgres,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,linux,postgres,mysql,figma" />
 </p>
 
 ---
 
-## 📘 Sobre mim
-Sou **Leandro Jesse**, em transição para a área de desenvolvimento, com foco total em **Java e Back-end**.  
-Atualmente estou construindo uma base sólida em:
+## 🧠 Sobre mim
+Sou **Leandro Jesse**, desenvolvedor full-stack com foco em **construção de soluções completas**,  
+do design da interface à lógica por trás do sistema.
 
-- Lógica de Programação  
-- Java puro (JDK, IntelliJ, Eclipse)  
-- Sintaxe, classes, objetos e POO  
-- Estruturas de dados  
-- Boas práticas e organização de código  
-- Projetos guiados e exercícios reais  
-
-Minha missão é clara: **dominar Java e me tornar desenvolvedor back-end profissional.**
+Trabalho com uma mentalidade moderna de desenvolvimento, onde:
+- UX/UI é tão importante quanto lógica
+- Código precisa ser legível, escalável e performático
+- IA é utilizada como **amplificador de produtividade e qualidade**
+- Aprendizado contínuo faz parte do processo
 
 ---
 
-## 📚 Estudos Atuais
+## 📘 Competências Técnicas
 
-### ✔ Curso principal
-**Java COMPLETO Programação Orientada a Objetos + Projetos** (Udemy)
+### 🔹 Front-End
+- HTML semântico e acessível  
+- CSS moderno e responsivo  
+- JavaScript moderno (ES6+)  
+- React e componentização  
+- Animações, micro-interações e UX/UI
 
-### ✔ Conteúdos que estou praticando
-- Variáveis, tipos, entrada e saída  
-- Operadores  
-- Condicionais  
-- Loops  
-- Arrays  
-- Métodos  
-- Classes e objetos  
-- POO avançada  
-- Aplicações com boas práticas
+### 🔹 Back-End
+- Lógica de programação
+- Estruturação de APIs
+- Integração com banco de dados
+- Autenticação e fluxo de dados
+- Conceitos de arquitetura e escalabilidade
 
-### ✔ Próximos passos
-- Spring Boot  
-- Banco de dados (PostgreSQL)  
-- APIs REST  
-- Docker  
-- Projetos reais para portfólio  
+### 🔹 Ferramentas & Workflow
+- Git & GitHub
+- Versionamento e organização de projetos
+- Linux
+- Figma (UI/UX)
+- IA aplicada ao desenvolvimento
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🚧 Projetos
+Neste perfil você encontrará projetos voltados para:
+
+- Aplicações web modernas
+- Interfaces interativas e animadas
+- Experimentos full-stack
+- Estudos práticos de lógica e arquitetura
+- Projetos focados em experiência do usuário
+- Evolução técnica contínua
+
+Todos os projetos refletem meu processo de aprendizado e crescimento como desenvolvedor.
+
+---
+
+## 📊 Estatísticas
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leorecoa&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leorecoa&layout=compact&theme=tokyonight" />
@@ -79,34 +97,20 @@ Minha missão é clara: **dominar Java e me tornar desenvolvedor back-end profis
 ---
 
 ## 🔥 Mentalidade
-> "Código é lógica, disciplina e constância. Todo dia dá pra evoluir 1%."
+> “Tecnologia muda.  
+> Lógica, curiosidade e consistência constroem o desenvolvedor.”
 
 ---
 
-## 🧩 Projetos em construção
-- Exercícios de lógica e Java  
-- Mini sistemas de cadastro  
-- Calculadoras  
-- Programas de console profissionais  
-- Em breve: API REST com Spring Boot
+## 📬 Contato
+- 📧 Email: leorecoa2@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/leandro-jess%C3%A9-7b575539a/  
+- 🐙 GitHub: https://github.com/leorecoa  
 
 ---
 
-## 🛠 Ferramentas de Trabalho
-- Java 17+  
-- IntelliJ IDEA / Eclipse  
-- Git & GitHub  
-- Maven  
-- PostgreSQL  
-- Linux (noções em progresso)
-
----
-
-## 🤝 Contato  
-- ✉ leorecoa2@gmail.com  
-- 🔗 https://www.linkedin.com/in/leandro-jess%C3%A9-7b575539a/
-- 🐙 https://github.com/leorecoa
-
----
-
-<h3 align="center">⚡ Back-end é lógica. E lógica é poesia em movimento.</h3>
+<h3 align="center">
+Construindo soluções.  
+Explorando tecnologia.  
+Evoluindo todos os dias.
+</h3>
