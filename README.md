@@ -1,63 +1,74 @@
 <div align="center">
-  <h1>👋 Hi, I'm Leandro Jesse</h1>
-  <p>AI-Assisted Frontend Developer — Crafting Modern Interfaces</p>
 
-  <!-- Links sociais -->
-  <p>
-    <a href="https://github.com/leorecoa">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="https://www.linkedin.com/in/leandrojesse">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:your.email@example.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
+# 👋 Hi, I'm Leandro Jesse
+
+**AI-Assisted Frontend Developer**  
+Building modern, maintainable and production-ready web applications.
+
+<p align="center">
+  <a href="https://github.com/leorecoa">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 </div>
 
 ---
 
-## 🔭 About Me
+## 🧠 About Me
 
-I'm a Frontend Developer with a focus on clean, maintainable code and modern workflows.
-I use AI tools to **boost productivity**, not as a crutch. I enjoy creating projects that are:
-- easy to understand
-- reusable
-- production-ready
+I'm a frontend developer focused on **clarity, scalability and real-world usage**.  
+I use AI as a **development multiplier**, not as a shortcut.
 
----
-
-## 🛠 Technologies
-
-- **Frontend:** React, TypeScript, Tailwind CSS  
-- **Build Tools:** Vite, Docker  
-- **Deploy/CI:** Vercel, GitHub Actions  
-- **Patterns:** Component-Driven, Clean Architecture
+- Clean architecture over hype  
+- CI/CD when it adds value  
+- Code that explains itself  
 
 ---
 
-## 🌟 Highlights
+## 🛠 Tech Stack
 
-### 📌 Featured Projects
+<p align="center">
+  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" />
+  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+</p>
 
-**[My Custom Software](https://meu-software-customizado.vercel.app)**  
-React + TypeScript + Vite  
-CI with Docker · Modern CSS Architecture
+---
 
-*(Add links + details of other projects here)*
+## 🚀 Featured Project
+
+### 🔹 Meu Software Customizado  
+Frontend portfolio application built with modern tooling.
+
+- React + TypeScript + Vite  
+- Dockerized environment  
+- CI pipeline with GitHub Actions  
+- Focus on structure and maintainability  
+
+🌐 **Live:** https://meu-software-customizado.vercel.app  
+📦 **Repo:** https://github.com/leorecoa/meu-software-customizado  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leorecoa&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=leorecoa&show_icons=true&theme=github_dark" />
 </p>
 
 ---
 
-## 📫 How to Reach Me
+## 📫 Contact
 
-- 💬 LinkedIn: https://www.linkedin.com/in/leandrojesse  
-- 📧 Email: your.email@example.com
+- GitHub: https://github.com/leorecoa  
+- LinkedIn: (add your link here)
+
+---
+
+<sub>🚀 Focused on becoming a better engineer with every commit.</sub>
