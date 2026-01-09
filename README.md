@@ -66,10 +66,18 @@ Frontend portfolio application built with modern tooling.
 
 ---
 
-## 📫 Contact
+📫 
 
-- GitHub: https://github.com/leorecoa  
-- LinkedIn: (add your link here)
+## 🌐 Connect With Me 📫 
+
+<p align="center">
+  <a href="https://github.com/leorecoa">
+    <img src="https://img.shields.io/badge/GitHub-leorecoa-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/leandro-jess%C3%A9-7b575539a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Leandro%20Jesse-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
