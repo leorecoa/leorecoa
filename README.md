@@ -55,11 +55,13 @@ Frontend portfolio application built with modern tooling.
 📦 **Repo:** https://github.com/leorecoa/meu-software-customizado  
 
 ---
-
-## 📊 GitHub Stats
+## ⚙️ Development Principles
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leorecoa&show_icons=true&theme=github_dark" />
+  <img src="https://img.shields.io/badge/Clean_Code-✔-10B981?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Assisted-✔-6366F1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dockerized-✔-2496ED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Production_Mindset-✔-F59E0B?style=for-the-badge" />
 </p>
 
 ---
