@@ -66,7 +66,6 @@ Frontend portfolio application built with modern tooling.
 
 ---
 
-📫 
 
 ## 🌐 Connect With Me 📫 
 
