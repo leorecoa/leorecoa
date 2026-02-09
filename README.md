@@ -1,93 +1,93 @@
 <div align="center">
 
-# 👋 Hi, I'm Leandro Jesse
+# 👋 Hi, I’m Leandro Jessé
 
-**AI-Assisted Frontend Developer**  
-Building modern, maintainable and production-ready web applications.
+**Frontend Engineer · AI-Orchestrated Development**  
+Designing and building **production-ready web experiences** with focus on **architecture, motion and performance**.
 
 <p align="center">
-  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" />
-  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </p>
+
 </div>
 
 ---
 
-## 🧠 About Me
+## 🧠 About
 
-I'm a frontend developer focused on **clarity, scalability and real-world usage**.  
-I use AI as a **development multiplier**, not as a shortcut.
+I’m a frontend engineer focused on **clarity, scalability and real product delivery**.  
+AI is part of my workflow — **as an orchestration layer**, not as a replacement for engineering judgment.
 
-- Clean architecture over hype  
-- CI/CD when it adds value  
-- Code that explains itself  
+I care deeply about:
+- Architecture that scales without noise  
+- Motion and UX that serve the product, not the ego  
+- Codebases that remain readable months later  
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Core Stack
 
 <p align="center">
-  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" />
-  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img src="https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=000" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=000" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=fff" />
 </p>
 
 ---
 
-🚀 Featured Project
-🔹 Mansão Maromba
+## 🚀 Featured Project
 
-E-commerce premium de bebidas com foco absoluto em experiência visual, motion e performance.
+### 🔹 Mansão Maromba
 
-React 19 + TypeScript + Vite como base de arquitetura moderna
+**Premium beverage e-commerce** designed around **visual experience, motion design and performance**.
 
-Carrossel 3D de produtos com Framer Motion e transições controladas
+- Modern frontend architecture with **React 19 + TypeScript + Vite**
+- **3D product carousel** using Framer Motion
+- Dynamic theming per product (color, light, atmosphere)
+- Authentication & backend powered by **Supabase (PostgreSQL + Auth)**
+- Global cart and state management with Context API
+- Visual-first design system (glassmorphism, controlled neon, micro-interactions)
+- Domain-oriented folder structure for long-term maintainability
+- Continuous deployment on **Vercel**, optimized for speed and stability
 
-Temas dinâmicos por produto (cor, luz, atmosfera)
+🌐 **Live:**  
+https://projeto-site-mansao-maromba-leandro-jesse-da-silvas-projects.vercel.app  
 
-Autenticação e backend com Supabase (PostgreSQL + Auth)
-
-Carrinho e estado global via Context API
-
-Design system visual-first (glassmorphism, neon controlado, microinterações)
-
-Arquitetura organizada por domínio, priorizando legibilidade e escala
-
-Deploy contínuo na Vercel, com foco em performance e estabilidade
-
-🌐 Live: https://projeto-site-mansao-maromba-leandro-jesse-da-silvas-projects.vercel.app
-
-📦 Repo: https://github.com/leorecoa/Projeto-Site-Mansao-Maromba
+📦 **Repository:**  
+https://github.com/leorecoa/Projeto-Site-Mansao-Maromba  
 
 ---
+
 ## ⚙️ Development Principles
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Clean_Code-✔-10B981?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI_Assisted-✔-6366F1?style=for-the-badge" />
-/>
+  <img src="https://img.shields.io/badge/Clean_Architecture-✔-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Design_&_Motion-First-9333EA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Orchestration-6366F1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Production_Mindset-22C55E?style=for-the-badge" />
 </p>
 
 ---
 
-
-## 🌐 Connect With Me 📫 
+## 🌐 Connect
 
 <p align="center">
   <a href="https://github.com/leorecoa">
     <img src="https://img.shields.io/badge/GitHub-leorecoa-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/leandro-jess%C3%A9-7b575539a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Leandro%20Jesse-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Leandro_Jessé-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<sub>🚀 Focused on becoming a better engineer with every commit.</sub>
+<sub>Focused on shipping real products — one well-designed system at a time.</sub>
