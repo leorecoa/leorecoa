@@ -40,18 +40,30 @@ I use AI as a **development multiplier**, not as a shortcut.
 
 ---
 
-## 🚀 Featured Project
+🚀 Featured Project
+🔹 Mansão Maromba
 
-### 🔹 Meu Software Customizado  
-Frontend portfolio application built with modern tooling.
+E-commerce premium de bebidas com foco absoluto em experiência visual, motion e performance.
 
-- React + TypeScript + Vite  
-- Dockerized environment  
-- CI pipeline with GitHub Actions  
-- Focus on structure and maintainability  
+React 19 + TypeScript + Vite como base de arquitetura moderna
 
-🌐 **Live:** https://meu-software-customizado.vercel.app  
-📦 **Repo:** https://github.com/leorecoa/meu-software-customizado  
+Carrossel 3D de produtos com Framer Motion e transições controladas
+
+Temas dinâmicos por produto (cor, luz, atmosfera)
+
+Autenticação e backend com Supabase (PostgreSQL + Auth)
+
+Carrinho e estado global via Context API
+
+Design system visual-first (glassmorphism, neon controlado, microinterações)
+
+Arquitetura organizada por domínio, priorizando legibilidade e escala
+
+Deploy contínuo na Vercel, com foco em performance e estabilidade
+
+🌐 Live: https://projeto-site-mansao-maromba-leandro-jesse-da-silvas-projects.vercel.app
+
+📦 Repo: https://github.com/leorecoa/Projeto-Site-Mansao-Maromba
 
 ---
 ## ⚙️ Development Principles
@@ -59,8 +71,7 @@ Frontend portfolio application built with modern tooling.
 <p align="center">
   <img src="https://img.shields.io/badge/Clean_Code-✔-10B981?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI_Assisted-✔-6366F1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Dockerized-✔-2496ED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Production_Mindset-✔-F59E0B?style=for-the-badge" />
+/>
 </p>
 
 ---
