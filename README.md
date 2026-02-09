@@ -43,6 +43,8 @@ I care deeply about:
 
 ---
 <div align="center"> <img src="https://i.imgur.com/2CMQ6GJ.png" alt="Mansão Maromba Logo" width="120" />
+
+  
 Mansão Maromba
 
 ## 🚀 Featured Project
