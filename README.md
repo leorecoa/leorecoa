@@ -1,98 +1,69 @@
 <div align="center">
 
-# 👋 Hi, I’m Leandro Jessé
+# Leandro Jessé
 
-**Frontend Engineer · AI-Orchestrated Development**  
-Designing and building **production-ready web experiences** with focus on **architecture, motion and performance**.
+**Full Stack Developer · AI-Assisted Engineering**  
+Building production-ready web applications with focus on architecture, performance, and user experience.
 
 <p align="center">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" />
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
-
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=000" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=000" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=fff" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=fff" />
 </p>
 
 </div>
 
 ---
 
-## 🧠 About
+## About
 
-I’m a frontend engineer focused on **clarity, scalability and real product delivery**.  
-AI is part of my workflow — **as an orchestration layer**, not as a replacement for engineering judgment.
+I’m a developer focused on building robust web products with clear architecture and real business value.
 
-I care deeply about:
-- Architecture that scales without noise  
-- Motion and UX that serve the product, not the ego  
-- Codebases that remain readable months later  
+I use AI heavily to accelerate analysis, implementation, and refactoring, while keeping full ownership of technical decisions, code quality, and final delivery.
 
 ---
 
-## 🛠️ Core Stack
+## Featured Project
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=000" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=000" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=fff" />
-</p>
+### Mansão Maromba — Premium Beverage E-commerce
 
----
-<div align="center"> <img src="https://i.imgur.com/2CMQ6GJ.png" alt="Mansão Maromba Logo" width="120" />
+A production-oriented e-commerce application focused on visual quality, smooth interactions, and scalable architecture.
 
-  
-Mansão Maromba
+- React 19 + TypeScript + Vite frontend
+- Dynamic product experience with Framer Motion
+- Supabase backend (Auth, PostgreSQL, Storage)
+- Secure auth and checkout flow
+- Cart and product state management
+- CI pipeline with type-check and tests
+- Deployed on Vercel
 
-## 🚀 Featured Project
+**Live:**  
+https://projeto-site-mansao-maromba.vercel.app/
 
-### 🔹 Mansão Maromba
-
-**Premium beverage e-commerce** designed around **visual experience, motion design and performance**.
-
-- Modern frontend architecture with **React 19 + TypeScript + Vite**
-- **3D product carousel** using Framer Motion
-- Dynamic theming per product (color, light, atmosphere)
-- Authentication & backend powered by **Supabase (PostgreSQL + Auth)**
-- Global cart and state management with Context API
-- Visual-first design system (glassmorphism, controlled neon, micro-interactions)
-- Domain-oriented folder structure for long-term maintainability
-- Continuous deployment on **Vercel**, optimized for speed and stability
-
-🌐 **Live:**  
-https://projeto-site-mansao-maromba-leandro-jesse-da-silvas-projects.vercel.app  
-
-📦 **Repository:**  
-https://github.com/leorecoa/Projeto-Site-Mansao-Maromba  
+**Repository:**  
+https://github.com/leorecoa/Projeto-Site-Mansao-Maromba
 
 ---
 
-## ⚙️ Development Principles
+## Engineering Principles
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Clean_Architecture-✔-0EA5E9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Design_&_Motion-First-9333EA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI_Orchestration-6366F1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Production_Mindset-22C55E?style=for-the-badge" />
-</p>
-
----
-
-## 🌐 Connect
-
-<p align="center">
-  <a href="https://github.com/leorecoa">
-    <img src="https://img.shields.io/badge/GitHub-leorecoa-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/leandro-jess%C3%A9-7b575539a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Leandro_Jessé-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+- Architecture first
+- Performance and maintainability
+- UX with purpose
+- AI-assisted execution with technical rigor
+- Production mindset
 
 ---
 
-<sub>Focused on shipping real products — one well-designed system at a time.</sub>
+## Contact
+
+- GitHub: https://github.com/leorecoa  
+- LinkedIn: https://www.linkedin.com/in/leandro-jess%C3%A9-7b575539a/
