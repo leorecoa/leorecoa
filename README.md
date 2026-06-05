@@ -1,75 +1,108 @@
-<div align="center">
+<div align="center">Leandro Jessé
 
-# Leandro Jesse
+Full Stack Developer focused on React, TypeScript, FastAPI, Supabase and product-driven web applications.
 
-**Full Stack Developer | React, TypeScript, Supabase e AI-assisted engineering**
-
-Construo aplicacoes web com foco em produto, performance, arquitetura clara e experiencia de uso.
+I build practical web systems with clear architecture, reliable business logic and polished user experience.
 
 <p>
-  <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=000" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=fff" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=fff" />
-</p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=111827" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=111827" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p></div>---
 
-</div>
+About
+
+I develop web applications with a strong focus on usability, maintainable code and real product flows.
+
+My current work is centered on three areas:
+
+- Operational business apps
+- E-commerce platforms
+- Document search and retrieval systems
 
 ---
 
-## Sobre mim
+Featured Projects
 
-Sou desenvolvedor focado em transformar ideias em produtos utilizaveis: interfaces bem resolvidas, regras de negocio confiaveis e codigo preparado para evoluir.
+RagResover
 
-Uso IA como acelerador de engenharia para analise, refatoracao, testes e documentacao, mantendo criterio tecnico sobre arquitetura, qualidade e entrega final.
+Local-first Retrieval-Augmented Generation platform for indexing private documents and asking questions with cited sources.
 
-## Projetos em destaque
+Stack: FastAPI, PostgreSQL/pgvector, Redis, MinIO, Docker, React, Vite, Ollama/OpenAI
 
-### Job e Comissoes
+Highlights:
 
-Sistema para barbearias acompanharem atendimentos, vales, produtos, comissoes e relatorios financeiros.
+- Async document upload with processing status
+- TXT, Markdown, HTML, JSON, PDF and DOCX extraction
+- Chunking, embeddings and semantic search
+- PostgreSQL vector storage with pgvector
+- RAG chat with retrieved sources
+- JWT auth, organizations and tenant-scoped access
+- React/Vite frontend for upload, search and chat
 
-- React 19, TypeScript e Vite
-- Calculo de comissao com preservacao historica
-- Exportacao PDF/CSV
-- Backup e restauracao de dados
-- Testes unitarios com Vitest
-- CI com GitHub Actions
+Repository: https://github.com/leorecoa/RagResover
 
-Repositorio: https://github.com/leorecoa/Job-e-Comiss-es
+---
 
-### Mansao Maromba
+Job e Comissões
 
-E-commerce premium de bebidas com foco em experiencia visual, fluxo de compra e arquitetura escalavel.
+Web app for barbershops to manage appointments, withdrawals, product sales, commissions and financial reports.
 
-- React, TypeScript e Vite
-- Supabase para backend, auth e storage
-- UI rica com animacoes
-- Deploy na Vercel
+Stack: React 19, TypeScript, Vite, Vitest, jsPDF, localStorage
 
-Demo: https://projeto-site-mansao-maromba.vercel.app/  
-Repositorio: https://github.com/leorecoa/Projeto-Site-Mansao-Maromba
+Highlights:
 
-## Stack principal
+- Appointment registration with barber, client, service and products
+- Commission calculation with historical preservation
+- Daily and monthly financial dashboard
+- PDF and CSV report export
+- Local backup and restore
+- Unit tests for financial rules
+- GitHub Actions CI
 
-- Frontend: React, TypeScript, Vite, Tailwind CSS
-- Backend e dados: Supabase, PostgreSQL, APIs REST
-- Qualidade: Vitest, Playwright, GitHub Actions
-- Produto: dashboards, e-commerce, ferramentas operacionais e automacoes
+Repository: https://github.com/leorecoa/Job-e-Comiss-es
 
-## Como trabalho
+---
 
-- Entendo o problema antes de codar
-- Priorizo codigo simples, testavel e evolutivo
-- Documento decisoes importantes
-- Valido com build, testes e revisao de fluxo
-- Uso IA para ganhar velocidade sem abrir mao de criterio
+Mansão Maromba
 
-## Contato
+Full stack e-commerce project focused on checkout flow, authentication, admin features and visual experience.
+
+Stack: React 19, TypeScript, Vite, Supabase, Tailwind CSS, Vitest, Playwright, Vercel
+
+Highlights:
+
+- Product catalog and product details
+- Persistent cart
+- Checkout with SQL RPC order creation
+- Supabase Auth with email/password and Google OAuth
+- Admin routes for product and order management
+- Image upload with validation
+- RLS/RBAC for admin access control
+- Unit/integration and E2E test setup
+
+Live: https://projeto-site-mansao-maromba.vercel.app/
+Repository: https://github.com/leorecoa/Projeto-Site-Mansao-Maromba
+
+---
+
+Main Stack
+
+Frontend: React, TypeScript, Vite, Tailwind CSS
+Backend: FastAPI, Supabase, PostgreSQL
+Quality: Vitest, Playwright, GitHub Actions
+Tooling: Docker, Git, GitHub, Vercel
+
+---
+
+Contact
 
 - GitHub: https://github.com/leorecoa
 - LinkedIn: https://www.linkedin.com/in/leandro-jess%C3%A9-7b575539a/
+
+---
