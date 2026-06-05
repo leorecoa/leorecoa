@@ -1,69 +1,75 @@
 <div align="center">
 
-# Leandro Jessé
+# Leandro Jesse
 
-**Full Stack Developer · AI-Assisted Engineering**  
-Building production-ready web applications with focus on architecture, performance, and user experience.
+**Full Stack Developer | React, TypeScript, Supabase e AI-assisted engineering**
 
-<p align="center">
+Construo aplicacoes web com foco em produto, performance, arquitetura clara e experiencia de uso.
+
+<p>
   <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=000" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=000" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=fff" />
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=fff" />
   <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=fff" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=fff" />
 </p>
 
 </div>
 
 ---
 
-## About
+## Sobre mim
 
-I’m a developer focused on building robust web products with clear architecture and real business value.
+Sou desenvolvedor focado em transformar ideias em produtos utilizaveis: interfaces bem resolvidas, regras de negocio confiaveis e codigo preparado para evoluir.
 
-I use AI heavily to accelerate analysis, implementation, and refactoring, while keeping full ownership of technical decisions, code quality, and final delivery.
+Uso IA como acelerador de engenharia para analise, refatoracao, testes e documentacao, mantendo criterio tecnico sobre arquitetura, qualidade e entrega final.
 
----
+## Projetos em destaque
 
-## Featured Project
+### Job e Comissoes
 
-### Mansão Maromba — Premium Beverage E-commerce
+Sistema para barbearias acompanharem atendimentos, vales, produtos, comissoes e relatorios financeiros.
 
-A production-oriented e-commerce application focused on visual quality, smooth interactions, and scalable architecture.
+- React 19, TypeScript e Vite
+- Calculo de comissao com preservacao historica
+- Exportacao PDF/CSV
+- Backup e restauracao de dados
+- Testes unitarios com Vitest
+- CI com GitHub Actions
 
-- React 19 + TypeScript + Vite frontend
-- Dynamic product experience with Framer Motion
-- Supabase backend (Auth, PostgreSQL, Storage)
-- Secure auth and checkout flow
-- Cart and product state management
-- CI pipeline with type-check and tests
-- Deployed on Vercel
+Repositorio: https://github.com/leorecoa/Job-e-Comiss-es
 
-**Live:**  
-https://projeto-site-mansao-maromba.vercel.app/
+### Mansao Maromba
 
-**Repository:**  
-https://github.com/leorecoa/Projeto-Site-Mansao-Maromba
+E-commerce premium de bebidas com foco em experiencia visual, fluxo de compra e arquitetura escalavel.
 
----
+- React, TypeScript e Vite
+- Supabase para backend, auth e storage
+- UI rica com animacoes
+- Deploy na Vercel
 
-## Engineering Principles
+Demo: https://projeto-site-mansao-maromba.vercel.app/  
+Repositorio: https://github.com/leorecoa/Projeto-Site-Mansao-Maromba
 
-- Architecture first
-- Performance and maintainability
-- UX with purpose
-- AI-assisted execution with technical rigor
-- Production mindset
+## Stack principal
 
----
+- Frontend: React, TypeScript, Vite, Tailwind CSS
+- Backend e dados: Supabase, PostgreSQL, APIs REST
+- Qualidade: Vitest, Playwright, GitHub Actions
+- Produto: dashboards, e-commerce, ferramentas operacionais e automacoes
 
-## Contact
+## Como trabalho
 
-- GitHub: https://github.com/leorecoa  
+- Entendo o problema antes de codar
+- Priorizo codigo simples, testavel e evolutivo
+- Documento decisoes importantes
+- Valido com build, testes e revisao de fluxo
+- Uso IA para ganhar velocidade sem abrir mao de criterio
+
+## Contato
+
+- GitHub: https://github.com/leorecoa
 - LinkedIn: https://www.linkedin.com/in/leandro-jess%C3%A9-7b575539a/
