@@ -2,7 +2,7 @@
 
 Full Stack Developer focused on React, TypeScript, FastAPI, Supabase and product-driven web applications.
 
-I build practical web systems with clear architecture, reliable business logic and polished user experience.
+I build practical web systems with clear architecture, reliable business logic, secure data access and polished user experience.
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -10,6 +10,7 @@ I build practical web systems with clear architecture, reliable business logic a
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/pgvector-Vector_Search-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=111827" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
@@ -17,13 +18,17 @@ I build practical web systems with clear architecture, reliable business logic a
 
 About
 
-I develop web applications with a strong focus on usability, maintainable code and real product flows.
+I develop web applications focused on real product flows, maintainable code, business logic and secure data access.
 
-My current work is centered on three areas:
+My work is currently centered on:
 
-- Operational business apps
+- Operational business applications
 - E-commerce platforms
-- Document search and retrieval systems
+- Retrieval-Augmented Generation systems
+- SaaS-style dashboards
+- Supabase authentication, RLS and database-driven products
+
+I use software development as a practical way to solve business problems, turning real workflows into structured applications with frontend, persistence, validation, tests and deployment.
 
 ---
 
@@ -33,70 +38,98 @@ RagResover
 
 Local-first Retrieval-Augmented Generation platform for indexing private documents and asking questions with cited sources.
 
-Stack: FastAPI, PostgreSQL/pgvector, Redis, MinIO, Docker, React, Vite, Ollama/OpenAI
+Stack: FastAPI, PostgreSQL, pgvector, Redis, MinIO, Docker, React, Vite, Ollama, OpenAI
 
 Highlights:
 
-- Async document upload with processing status
-- TXT, Markdown, HTML, JSON, PDF and DOCX extraction
+- Document upload with processing pipeline
+- TXT, Markdown, JSON, PDF and DOCX extraction
 - Chunking, embeddings and semantic search
 - PostgreSQL vector storage with pgvector
 - RAG chat with retrieved sources
-- JWT auth, organizations and tenant-scoped access
-- React/Vite frontend for upload, search and chat
+- Tenant-scoped access and API token support
+- React/Vite dashboard for upload, search and chat
+- Local-first development with Docker, MinIO and Ollama
+- OpenAI provider support for production environments
 
-Repository: https://github.com/leorecoa/RagResover
+Repository:
+https://github.com/leorecoa/RagResover
 
 ---
 
 Job e Comissões
 
-Web app for barbershops to manage appointments, withdrawals, product sales, commissions and financial reports.
+Web application for barbershops to manage appointments, withdrawals, product sales, commissions and financial reports.
 
-Stack: React 19, TypeScript, Vite, Vitest, jsPDF, localStorage
+The project started as a local commission control system and is evolving into a lightweight SaaS for barbershop operations, including public booking, role-based access and Supabase persistence.
+
+Stack: React 19, TypeScript, Vite, Vitest, Supabase, jsPDF, GitHub Actions
 
 Highlights:
 
 - Appointment registration with barber, client, service and products
+- Public booking flow for clients
+- Barber dashboard and operational views
 - Commission calculation with historical preservation
 - Daily and monthly financial dashboard
 - PDF and CSV report export
 - Local backup and restore
-- Unit tests for financial rules
+- Supabase persistence with localStorage fallback
+- Initial authentication, roles and RLS policies
+- Unit tests for scheduling and financial rules
 - GitHub Actions CI
 
-Repository: https://github.com/leorecoa/Job-e-Comiss-es
+Repository:
+https://github.com/leorecoa/Job-e-Comiss-es
 
 ---
 
 Mansão Maromba
 
-Full stack e-commerce project focused on checkout flow, authentication, admin features and visual experience.
+Full stack e-commerce project focused on checkout flow, authentication, protected routes, admin features and visual experience.
 
-Stack: React 19, TypeScript, Vite, Supabase, Tailwind CSS, Vitest, Playwright, Vercel
+Stack: React 19, TypeScript, Vite, Supabase, Tailwind CSS, Zustand, TanStack Query, Vitest, Playwright, Vercel
 
 Highlights:
 
 - Product catalog and product details
 - Persistent cart
-- Checkout with SQL RPC order creation
-- Supabase Auth with email/password and Google OAuth
+- Protected checkout flow
+- Supabase Auth with Google OAuth
+- SQL RPC order creation
+- Customer order history
 - Admin routes for product and order management
 - Image upload with validation
 - RLS/RBAC for admin access control
-- Unit/integration and E2E test setup
+- Unit, integration and E2E test setup
+- Vercel deployment
 
-Live: https://projeto-site-mansao-maromba.vercel.app/
-Repository: https://github.com/leorecoa/Projeto-Site-Mansao-Maromba
+Live:
+https://projeto-site-mansao-maromba.vercel.app/
+
+Repository:
+https://github.com/leorecoa/Projeto-Site-Mansao-Maromba
 
 ---
 
 Main Stack
 
-Frontend: React, TypeScript, Vite, Tailwind CSS
-Backend: FastAPI, Supabase, PostgreSQL
+Frontend: React, TypeScript, Vite, Tailwind CSS, Zustand, TanStack Query
+Backend: FastAPI, Supabase, PostgreSQL, pgvector
+Database & Auth: Supabase Auth, PostgreSQL, RLS, SQL RPC
+AI/RAG: Embeddings, semantic search, retrieval pipelines, Ollama, OpenAI
 Quality: Vitest, Playwright, GitHub Actions
 Tooling: Docker, Git, GitHub, Vercel
+
+---
+
+Current Focus
+
+- Building product-driven full stack applications
+- Improving Supabase RLS and multi-tenant architecture
+- Developing RAG systems with private document retrieval
+- Creating practical SaaS-style products from real business workflows
+- Strengthening automated tests, CI and deployment workflows
 
 ---
 
